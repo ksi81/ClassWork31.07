@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+font-family: "Roboto", sans-serif;
+    font-size: 36px;
+}
+.new{
+	width: 640px;
+	height: 450px;
+	padding: 4px;
+	border: 4px solid blue;
+}
+.one1, .one2, .one3{
+	border-right: 1px solid blue;
+	height: 100%;
+	width: 33%;
+	float: left;
+	padding-top: 20px;
+}
+.one3 {
+	border-right: none;
+}
+.blue {
+	width: 36px;
+    height: 36px;
+    background: #3366ff;;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 7px;
+}
+.two {
+	padding-left: 16%;
+}
+.two2 {
+	padding-top: 37%;
+    padding-left: 20%;
+}
+.hello {
+	float: left;
+}
+.blue2 {
+    margin-bottom: -15%;
+    margin-left: 54%;
+}
+.one22, .one33 {
+	text-align: center;
+	padding-top: 25px;
+}
+.blue3 {
+    margin-left: 94px;
+    margin-top: 127px;
+    margin-bottom: -40px;
+}
+.one33{
+	padding-top: 60px;
+}
+
+
