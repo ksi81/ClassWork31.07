@@ -1,6 +1,6 @@
 *{
 box-sizing: border-box;	
-font-style: "Roboto" serif; 
+font-family: "Roboto", sans-serif;
     font-size: 36px;
 }
 
@@ -11,12 +11,15 @@ font-style: "Roboto" serif;
 	border: 3px solid blue;
 }
 
-.one1, .one2{
+.one1, .one2, .one3{
 	border-right: 1px solid blue;
 	height: 100%;
 	width: 33%;
 	float: left;
 	padding-top: 40px;
+}
+.one3 {
+	border-right: none;
 }
 .blue {
 	width: 36px;
@@ -52,15 +55,17 @@ p {
 	text-align: center;
 }
 .one33 {
-	line-height: 50%;
-	
+	/*line-height: 50%;*/
+
 }
 .blue3 {
-	width: 36px;
+	     width: 36px;
     height: 36px;
     background: blue;
-    margin-left: 623px;
-    margin-top: 200px;
+    margin-left: 115px;
+    margin-top: 217px;
+    float: left;
+    margin-bottom: -28px;
 	
 }
 
