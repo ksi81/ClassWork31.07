@@ -1,0 +1,95 @@
+*{
+box-sizing: border-box;	
+font-family: "Roboto", sans-serif;
+    font-size: 36px;
+}
+
+.new{
+	width: 640px;
+	height: 450px;
+	padding: 4px;
+	border: 4px solid blue;
+}
+
+.one1, .one2, .one3{
+	border-right: 1px solid blue;
+	height: 100%;
+	width: 33%;
+	float: left;
+	padding-top: 20px;
+}
+.one3 {
+	border-right: none;
+}
+
+.blue {
+	width: 36px;
+    height: 36px;
+    background: #3366ff;
+   position: absolute;
+   
+}
+
+.blue1 {
+       top: 30px;
+}
+
+.hello1{
+	position: absolute;
+	top: 28px;
+    left: 55px;
+}
+
+.blue11 {
+    top: 80px;
+    left: 54px;
+}
+.hello11{
+	position: absolute;
+	top: 179px;
+    left: 94px;
+}
+.blue111 {
+	top: 180px;
+    left: 174px;
+}
+
+.hello111{
+	position: absolute;
+	top: 79px;
+    left: 94px;
+}
+.blue2 {
+     top: 67px;
+    left: 347px;
+}
+
+.hello2{
+	position: absolute;
+	top: 79px;
+    left: 294px;
+}
+
+.blue3 {
+    top: 175px;
+    left: 529px;
+}
+
+.hello3{
+	position: absolute;
+	top: 177px;
+    left: 511px;
+}
+
+.two {
+	padding-top: 0;
+	padding-left: 16%;
+}
+p {
+	padding: 0;
+	margin: 0;
+}
+.two2 {
+	padding-top: 37%;
+    padding-left: 20%;
+}
